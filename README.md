@@ -1,6 +1,6 @@
 # Linuxoster
 a tool to help download linux for windows 11 PC,heres the full desc:
-# Linuxoster (Perl + C + Java + Python +Lua )
+# Linuxoster (Perl + C + Java + Python + Lua + Kotlin )
 
 A helper tool for Windows users preparing to switch to Linux.
 
